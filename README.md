@@ -106,6 +106,7 @@ Want to help shape the game without coding? Join our **Discord community** to:
 - **Discord Server** - [Join Here](https://discord.gg/your-discord-link)
 - **Contributing Guide** - [CONTRIBUTING.md](CONTRIBUTING.md)
 - **Code of Conduct** - [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+- **Security Policy** - [SECURITY.md](SECURITY.md)
 - **Godot Engine** - [Official Documentation](https://docs.godotengine.org/)
 
 ---
