@@ -55,7 +55,14 @@ We're looking for contributors in multiple disciplines:
 - **Tools Development** - Editor plugins, content creation tools
 - **Backend Services** - Authentication, databases, matchmaking
 
-**Languages & Skills**: GDScript, C#, C++, Python, networking, database design
+**Languages**:
+- [GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html)
+- [C++](https://cplusplus.com/)
+- [Python](https://www.python.org/)
+- [Golang](https://go.dev/)
+**Skills:**
+- Networking
+- Database Designing, and Optimization.
 
 ### 🎨 **Artists**
 - **3D Modeling** - Characters, creatures, environments, props
@@ -63,14 +70,23 @@ We're looking for contributors in multiple disciplines:
 - **Animation** - Character animations, visual effects, cutscenes
 - **Environment Design** - World building, level design, lighting
 
-**Tools**: Blender, GIMP, Krita, Aseprite, Substance Painter
+**Tools**: 
+- [Blender](https://www.blender.org/)
+- [GIMP](https://www.gimp.org/)
+- [Krita](https://krita.org/en/)
+- [Substance Painter](https://www.adobe.com/products/substance3d/apps/painter.html)
+- [PureRef](https://www.pureref.com/)
 
 ### 🎵 **Audio Designers**
 - **Music Composition** - Background music, combat themes, ambient tracks
 - **Sound Effects** - Combat sounds, environmental audio, UI sounds
 - **Voice Acting** - Character voices, NPC dialogue (future)
 
-**Tools**: REAPER, Audacity, FL Studio, or your DAW of choice
+**Tools**: 
+- [REAPER](https://www.reaper.fm/)
+- [Audacity](https://www.audacityteam.org/)
+- [FL Studio](https://www.image-line.com/)
+(or your DAW of choice)
 
 ### 🎮 **Game Designers**
 - **Systems Design** - Combat balance, progression curves, economy
