@@ -5,9 +5,9 @@
 **Building a Massively Multiplayer Online RPG with Godot Engine**
 
 [![Godot Engine](https://img.shields.io/badge/Godot-4.0+-blue.svg)](https://godotengine.org/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA.svg)](https://discord.gg/your-discord-link)
-[![Contributors Welcome](https://img.shields.io/badge/contributors-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![License](https://img.shields.io/badge/license-OALv1-green.svg)](../LICENSE)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA.svg)](https://discord.gg/WnHqgwU2yB)
+[![Contributors Welcome](https://img.shields.io/badge/contributors-welcome-brightgreen.svg)](../CONTRIBUTING.md)
 
 </div>
 
@@ -118,11 +118,11 @@ Want to help shape the game without coding? Join our **Discord community** to:
 
 ## 📚 Resources
 
-- **Documentation** - [Wiki](../../wiki) (Coming Soon)
-- **Discord Server** - [Join Here](https://discord.gg/your-discord-link)
-- **Contributing Guide** - [CONTRIBUTING.md](CONTRIBUTING.md)
-- **Code of Conduct** - [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
-- **Security Policy** - [SECURITY.md](SECURITY.md)
+- **Documentation** - [Wiki](https://gdmmorpg.github.io/docs/) (Coming Soon)
+- **Discord Server** - [Join Here](https://discord.gg/WnHqgwU2yB)
+- **Contributing Guide** - [CONTRIBUTING.md](../CONTRIBUTING.md)
+- **Code of Conduct** - [CODE_OF_CONDUCT.md](../CODE_OF_CONDUCT.md)
+- **Security Policy** - [SECURITY.md](../SECURITY.md)
 - **Godot Engine** - [Official Documentation](https://docs.godotengine.org/)
 
 ---
@@ -177,7 +177,7 @@ If you find this project interesting, please consider:
 
 ## 📜 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [OALv1 License](../LICENSE.md).
 
 ---
 
@@ -185,7 +185,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Built with ❤️ by contributors from around the world using:
 - [Godot Engine](https://godotengine.org/) - The open-source game engine powering our project
-- [Our Amazing Contributors](../../graphs/contributors) - Everyone who has contributed to this project
+- [Our Amazing Contributors](https://github.com/GDMMORPG/Godot-MMORPG/graphs/contributors) - Everyone who has contributed to this project
 
 ---
 
@@ -193,6 +193,6 @@ Built with ❤️ by contributors from around the world using:
 
 **Ready to embark on this adventure?**
 
-[Join Discord](https://discord.gg/your-discord-link) • [Start Contributing](CONTRIBUTING.md) • [View Issues](../../issues)
+[Join Discord](https://discord.gg/WnHqgwU2yB) • [Start Contributing](CONTRIBUTING.md) • [View Issues](https://github.com/GDMMORPG/Godot-MMORPG/issues)
 
 </div>
